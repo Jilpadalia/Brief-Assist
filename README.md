@@ -49,7 +49,7 @@
 
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/mann1105/Brief-Assist.git
+    <pre><code>git clone https://github.com/Jilpadalia/Brief-Assist.git
 cd Brief-Assist</code></pre>
     <p>There are two folders namely local_assistant which requires inference from LLM locally and remote_assistant which uses api to make inference. Just an advice, use remote_assistant folder files to get faster responses as compared to local_assistant files</p>
     <p>Using gemini-1.5-flash is most suitable for regular task because it is built to address developers’ top request for speed and affordability.</p>
@@ -102,10 +102,10 @@ print(Key.f9.value, Key.f10.value)</code></pre>
 
 <h2 id="contact">📫 Contact</h2>
 
-<p>For any queries, please contact <a href="mailto:manpatel.tech@gmail.com">manpatel.tech@gmail.com</a>.</p>
+<p>For any queries, please contact <a href="mailto:joeypadalia7@gmail.com">joeypadalia7@gmail.com</a>.</p>
 
 <hr>
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/mann1105">Mann Patel</a>
+  Made with ❤️ by <a href="https://github.com/Jilpadalia">Jil padalia</a>
 </p>
